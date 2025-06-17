@@ -1,7 +1,7 @@
 {
-  "use_custom_files": true,
+  "use_custom_files": false,
   "custom_file_path": {
-    "node_file": "data/grid_100/nodes.csv",
-    "edge_file": "data/grid_100/edges.csv"
+    "node_file": "data/ECNU-nodes.csv",
+    "edge_file": "data/ECNU-edges.csv"
   }
 }
