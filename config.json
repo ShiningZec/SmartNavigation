@@ -1,0 +1,7 @@
+{
+  "use_custom_files": true,
+  "custom_file_path": {
+    "node_file": "data/grid_100/nodes.csv",
+    "edge_file": "data/grid_100/edges.csv"
+  }
+}
