@@ -1,7 +1,7 @@
 __author__ = 'ShiningZec'
 
 from .cli_doc import HELP_DOC, TUTOR_DOC, HELP_EXIT, help_func
-from core.graph_util import GraphManager, read_graph
+from src.core.graph_util import GraphManager, read_graph
 
 import shlex
 from typing import List

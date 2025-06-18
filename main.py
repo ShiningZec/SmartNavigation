@@ -1,6 +1,6 @@
 __author__ = 'ShiningZec'
 
-from app import ui
+from src.app import ui
 
 import json
 import os

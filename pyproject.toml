@@ -8,3 +8,12 @@ dependencies = [
     "customtkinter>=5.2.2",
     "networkx>=3.5",
 ]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src"]
+
+[project.scripts]
+main = "main:main"
+
+[tool.uv]
+package = true
